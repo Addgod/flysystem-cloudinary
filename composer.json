@@ -1,11 +1,15 @@
 {
-  "name": "enl/flysystem-cloudinary",
+  "name": "addgod/flysystem-cloudinary",
   "description": "Cloudinary adapter for Flysystem.",
   "license": "MIT",
   "authors": [
     {
       "name": "Alex Panshin",
       "email": "deadyaga@gmail.com"
+    },
+    {
+      "name": "Jesper Kold-Hansen",
+      "email": "jkoldhansen@gmail.com"
     }
   ],
   "require": {
